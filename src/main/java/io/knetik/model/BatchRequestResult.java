@@ -26,7 +26,7 @@ import java.util.List;
 /**
  * BatchRequestResult
  */
-@javax.annotation.Generated(value = "io.swagger.codegen.languages.JavaClientCodegen", date = "2017-07-18T16:04:12.497-04:00")
+@javax.annotation.Generated(value = "io.swagger.codegen.languages.JavaClientCodegen", date = "2017-08-25T17:08:33.899-04:00")
 public class BatchRequestResult {
   @JsonProperty("code")
   private Integer code = null;
@@ -133,6 +133,6 @@ public class BatchRequestResult {
     }
     return o.toString().replace("\n", "\n    ");
   }
-  
+
 }
 

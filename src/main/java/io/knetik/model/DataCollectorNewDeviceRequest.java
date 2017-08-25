@@ -19,7 +19,7 @@ import io.knetik.model.DataCollectorBaseRequest;
 /**
  * DataCollectorNewDeviceRequest
  */
-@javax.annotation.Generated(value = "io.swagger.codegen.languages.JavaClientCodegen", date = "2017-07-18T16:04:12.497-04:00")
+@javax.annotation.Generated(value = "io.swagger.codegen.languages.JavaClientCodegen", date = "2017-08-25T17:08:33.899-04:00")
 public class DataCollectorNewDeviceRequest extends DataCollectorBaseRequest {
 
   @Override
@@ -58,6 +58,6 @@ public class DataCollectorNewDeviceRequest extends DataCollectorBaseRequest {
     }
     return o.toString().replace("\n", "\n    ");
   }
-  
+
 }
 
