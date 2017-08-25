@@ -50,7 +50,7 @@ import io.knetik.client.auth.HttpBasicAuth;
 import io.knetik.client.auth.ApiKeyAuth;
 import io.knetik.client.auth.OAuth;
 
-@javax.annotation.Generated(value = "io.swagger.codegen.languages.JavaClientCodegen", date = "2017-08-25T17:08:33.899-04:00")
+@javax.annotation.Generated(value = "io.swagger.codegen.languages.JavaClientCodegen", date = "2017-08-25T17:55:58.945-04:00")
 public class ApiClient {
   protected Map<String, String> defaultHeaderMap = new HashMap<String, String>();
   protected String basePath = "https://api.knetik.io";

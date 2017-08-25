@@ -24,7 +24,7 @@ import io.swagger.annotations.ApiModelProperty;
 /**
  * DataCollectorBeginTransactionRequest
  */
-@javax.annotation.Generated(value = "io.swagger.codegen.languages.JavaClientCodegen", date = "2017-08-25T17:08:33.899-04:00")
+@javax.annotation.Generated(value = "io.swagger.codegen.languages.JavaClientCodegen", date = "2017-08-25T17:55:58.945-04:00")
 public class DataCollectorBeginTransactionRequest extends DataCollectorBaseRequest {
   @JsonProperty("timeout")
   private Integer timeout = null;
