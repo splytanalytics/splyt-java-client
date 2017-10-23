@@ -25,7 +25,7 @@ import io.swagger.annotations.ApiModelProperty;
 /**
  * DataCollectorBaseRequest
  */
-@javax.annotation.Generated(value = "io.swagger.codegen.languages.JavaClientCodegen", date = "2017-08-25T17:55:58.945-04:00")@JsonTypeInfo(use = JsonTypeInfo.Id.NAME, include = JsonTypeInfo.As.PROPERTY, property = "request_type", visible = true )
+@javax.annotation.Generated(value = "io.swagger.codegen.languages.JavaClientCodegen", date = "2017-10-23T15:55:12.975-04:00")@JsonTypeInfo(use = JsonTypeInfo.Id.NAME, include = JsonTypeInfo.As.PROPERTY, property = "request_type", visible = true )
 @JsonSubTypes({
   @JsonSubTypes.Type(value = DataCollectorNewUserRequest.class, name = "newUser"),
   @JsonSubTypes.Type(value = DataCollectorUpdateDeviceStateRequest.class, name = "updateDeviceState"),

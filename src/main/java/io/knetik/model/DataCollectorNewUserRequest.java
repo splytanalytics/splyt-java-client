@@ -19,7 +19,7 @@ import io.knetik.model.DataCollectorBaseRequest;
 /**
  * DataCollectorNewUserRequest
  */
-@javax.annotation.Generated(value = "io.swagger.codegen.languages.JavaClientCodegen", date = "2017-08-25T17:55:58.945-04:00")
+@javax.annotation.Generated(value = "io.swagger.codegen.languages.JavaClientCodegen", date = "2017-10-23T15:55:12.975-04:00")
 public class DataCollectorNewUserRequest extends DataCollectorBaseRequest {
 
   @Override

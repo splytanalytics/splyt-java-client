@@ -26,7 +26,7 @@ import java.util.List;
 /**
  * DataCollectorBatchRequest
  */
-@javax.annotation.Generated(value = "io.swagger.codegen.languages.JavaClientCodegen", date = "2017-08-25T17:55:58.945-04:00")
+@javax.annotation.Generated(value = "io.swagger.codegen.languages.JavaClientCodegen", date = "2017-10-23T15:55:12.975-04:00")
 public class DataCollectorBatchRequest {
   @JsonProperty("batch")
   private List<DataCollectorBaseRequest> batch = null;

@@ -5,7 +5,7 @@
   <artifactId>splyt-java-client</artifactId>
   <packaging>jar</packaging>
   <name>splyt-java-client</name>
-  <version>3.0.6</version>
+  <version>3.0.7</version>
   <url>https://github.com/swagger-api/swagger-codegen</url>
   <description>Swagger Java</description>
   <scm>
@@ -150,6 +150,14 @@
         </executions>
       </plugin>
     </plugins>
+    
+    <extensions>
+	  <extension>
+        <groupId>org.springframework.build</groupId>
+        <artifactId>aws-maven</artifactId>
+        <version>5.0.0.RELEASE</version>
+      </extension>
+    </extensions>
   </build>
 
   <profiles>
